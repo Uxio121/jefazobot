@@ -1,2 +1,2 @@
 # Jefazobot
-[b] Test texto negrita [/b]
+[b] Test texto negrita [b]
